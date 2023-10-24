@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'macaronesia-backend-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72E5861B9D45473791BAFA1D61A20B9C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C983D098C85488B91C4A2857BD52212 }}
           package: .
